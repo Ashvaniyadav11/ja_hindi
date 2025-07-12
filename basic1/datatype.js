@@ -26,3 +26,9 @@ console.log(user);
 /* 
 use to write multi line comments
 */
+
+// Special character 
+console.log("For most users, especially \t  like video calling, YouTube, and UPI") // tab = use to giving space
+console.log("For most users, especially \n  like video calling, YouTube, and UPI")// use print something new line 
+console.log("For most users, especially \r  like video calling, YouTube, and UPI") //use to remove before some thing
+console.log("For most users, especially \'  like video calling, YouTube, and UPI")
